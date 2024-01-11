@@ -1,1 +1,1 @@
-# Style-independent Radical Sequence Learning for Zero-shot Recognition of Small Seal Script
+Wenhui Zhou, Jinyu Liu, Jiefeng Li, Jiyi Li, Lili Lin*, Fumiyo Fukumoto, Guojun Dai*, Style-independent Radical Sequence Learning for Zero-shot Recognition of Small Seal Script. Journal of the Franklin Institute. 2023. https://doi.org/10.1016/j.jfranklin.2023.09.005
